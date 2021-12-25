@@ -1,9 +1,0 @@
-org/springframework/security/saml/web/MetadataController$AllowedSSOBindings.class
-org/springframework/security/saml/web/MetadataValidator.class
-org/springframework/security/saml/web/MetadataController.class
-org/springframework/security/saml/web/SecurityUtils.class
-org/springframework/security/saml/web/MetadataForm.class
-org/springframework/security/saml/web/MyDailyRollingFileAppender.class
-org/springframework/security/saml/web/LogFileFilter.class
-org/springframework/security/saml/web/RollingCalendar.class
-org/springframework/security/saml/web/CustomSAMLBootstrap.class
