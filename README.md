@@ -18,6 +18,7 @@
  ![image](https://ltmxcx.oss-cn-beijing.aliyuncs.com/adfs/img.png)
 
 ##需要文档，请支付（支付宝）
+ 注： 请备注邮箱信息
 
 ![image](https://ltmxcx.oss-cn-beijing.aliyuncs.com/alipay/zfb.png)
 
