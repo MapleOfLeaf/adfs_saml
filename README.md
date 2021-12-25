@@ -15,11 +15,11 @@
 
 ##整体思维导图
 
- ![image](https://github.com/MapleOfLeaf/adfs_saml/blob/main/src/main/webapp/images/img.png)
+ ![image](https://ltmxcx.oss-cn-beijing.aliyuncs.com/adfs/img.png)
 
 ##需要文档，请支付（支付宝）
 
-![image](https://github.com/MapleOfLeaf/Image/blob/main/zf/zfb.png)
+![image](https://ltmxcx.oss-cn-beijing.aliyuncs.com/alipay/zfb.png)
 
 ## 许可证
 
