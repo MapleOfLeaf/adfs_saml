@@ -14,3 +14,7 @@
 3. Spring security 提供的Demo 如下：https://repo.spring.io/list/release/org/springframework/security/extensions/spring-security-saml/
 
 ####整体思维导图
+
+ ![image](https://github.com/MapleOfLeaf/adfs_saml/blob/main/doc/img.png)
+ 
+ 
