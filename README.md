@@ -15,7 +15,7 @@
 
 ##整体思维导图
 
- ![image](https://github.com/MapleOfLeaf/Image/blob/main/ADFS/img.png)
+ ![image](https://github.com/MapleOfLeaf/adfs_saml/blob/main/src/main/webapp/images/img.png)
 
 ##需要文档，请支付（支付宝）
 
