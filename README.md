@@ -15,14 +15,14 @@
 
 ##整体思维导图
 
- ![image](https://github.com/MapleOfLeaf/adfs_saml/blob/main/doc/img.png)
+ ![image](https://github.com/MapleOfLeaf/Image/blob/main/ADFS/img.png)
 
 ##需要文档，请支付（支付宝）
 
-![image](https://github.com/MapleOfLeaf/adfs_saml/blob/main/doc/zfb.png)
+![image](https://github.com/MapleOfLeaf/Image/blob/main/zf/zfb.png)
 
 ## 许可证
 
-[Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/MapleOfLeaf/adfs_saml/blob/main/LICENSE)
  
  
